@@ -1,1 +1,13 @@
-{}
+{
+  "tickets": [
+    {
+      "id": "4bd94210-790e-4d36-bcc7-90b0349f3960",
+      "equipment": "Computador",
+      "description": "Computador não liga.",
+      "user_name": "Thiago Soares",
+      "status": "open",
+      "create_at": "2025-03-12T19:07:42.005Z",
+      "update_at": "2025-03-12T19:07:42.005Z"
+    }
+  ]
+}
