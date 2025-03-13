@@ -8,6 +8,15 @@
       "status": "open",
       "create_at": "2025-03-12T19:07:42.005Z",
       "update_at": "2025-03-12T19:07:42.005Z"
+    },
+    {
+      "id": "5f9b702a-69ce-4070-9b79-5d7a88be5e3f",
+      "equipment": "Computador",
+      "description": "Computador não liga.",
+      "user_name": "Thiago Soares",
+      "status": "open",
+      "create_at": "2025-03-12T19:12:48.308Z",
+      "update_at": "2025-03-12T19:12:48.308Z"
     }
   ]
 }
